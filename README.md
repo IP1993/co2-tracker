@@ -22,12 +22,23 @@ Alle Daten sind **fiktiv** und dienen ausschließlich der Demonstration.
 ---
 
 ## Projektstruktur
-/assets /screenshots hero.jpg logo.png index.html daten.html kontakt.html ueber-uns.html impressum.html datenschutz.html styles.css
+/assets
+    /screenshots
+    hero.jpg
+    logo.png
+index.html
+daten.html
+kontakt.html
+ueber-uns.html
+impressum.html
+datenschutz.html
+styles.css
+
 
 
 ---
 
-## 🖥️ Verwendete Technologien
+## Verwendete Technologien
 
 - **HTML5**
 - **CSS3**
@@ -38,7 +49,7 @@ Alle Daten sind **fiktiv** und dienen ausschließlich der Demonstration.
 
 ---
 
-## 🔍 Funktionen
+## Funktionen
 
 ### ✔ CO₂‑Datentabelle
 - Anzeige fiktiver Emissionsdaten  
@@ -61,7 +72,7 @@ Filterbar nach:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Alle Screenshots befinden sich im Ordner:
 /assets/screenshots
@@ -79,13 +90,14 @@ Die Screenshots zeigen:
 
 ---
 
-## 🌐 Live‑Version
+## Live‑Version
+Die Website ist über GitHub Pages erreichbar unter:
 
-**https://IP1993.github.io/co2-tracker/**  
+**https://IP1993.github.io/co2-tracker/**
 
 ---
 
-## 📄 Rechtliche Hinweise
+## Rechtliche Hinweise
 
 - Alle Daten sind fiktiv.  
 - Das Projekt dient ausschließlich der Erfüllung einer Studienleistung.  
@@ -93,9 +105,8 @@ Die Screenshots zeigen:
 
 ---
 
-## 👩‍💻 Autor
+## Autor
 
-Iliyan Milenov Petrov 
-
+**Iliyan Milenov Petrov** 
 IU Internationale Hochschule  
 Modul: IPWA01‑01
