@@ -34,8 +34,6 @@ impressum.html
 datenschutz.html
 styles.css
 
-
-
 ---
 
 ## Verwendete Technologien
