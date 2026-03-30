@@ -24,15 +24,25 @@ Alle Daten sind **fiktiv** und dienen ausschließlich der Demonstration.
 ## Projektstruktur
 
 /assets
+
     /screenshots
+    
     hero.jpg
+    
     logo.png
+    
 index.html
+
 daten.html
+
 kontakt.html
+
 ueber-uns.html
+
 impressum.html
+
 datenschutz.html
+
 styles.css
 
 ---
