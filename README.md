@@ -22,6 +22,7 @@ Alle Daten sind **fiktiv** und dienen ausschließlich der Demonstration.
 ---
 
 ## Projektstruktur
+
 /assets
     /screenshots
     hero.jpg
@@ -106,5 +107,6 @@ Die Website ist über GitHub Pages erreichbar unter:
 ## Autor
 
 **Iliyan Milenov Petrov** 
+
 IU Internationale Hochschule  
 Modul: IPWA01‑01
